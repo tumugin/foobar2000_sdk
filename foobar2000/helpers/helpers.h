@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 // #pragma message("Avoid using this header. #include individual ones instead.")
 
 #include "duration_counter.h"

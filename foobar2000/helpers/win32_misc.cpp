@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 #include "win32_misc.h"
 #include "TypeFind.h"
 #include "SmartStrStr.h"

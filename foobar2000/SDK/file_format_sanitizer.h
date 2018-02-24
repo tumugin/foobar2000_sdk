@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #ifdef FOOBAR2000_HAVE_FILE_FORMAT_SANITIZER
 //! Utility service to perform file format specific cleanup routines, optimize tags layout, remove padding, etc.

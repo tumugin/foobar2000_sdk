@@ -1,4 +1,4 @@
-//! Implements album_art_data.
+﻿//! Implements album_art_data.
 class album_art_data_impl : public album_art_data {
 public:
 	const void * get_ptr() const {return m_content.get_ptr();}

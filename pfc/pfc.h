@@ -1,4 +1,4 @@
-#ifndef ___PFC_H___
+﻿#ifndef ___PFC_H___
 #define ___PFC_H___
 
 // Global flag - whether it's OK to leak static objects as they'll be released anyway by process death

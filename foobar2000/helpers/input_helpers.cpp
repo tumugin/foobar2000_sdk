@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 
 #include "input_helpers.h"
 #include "fullFileBuffer.h"

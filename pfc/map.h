@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 namespace pfc {
 	PFC_DECLARE_EXCEPTION(exception_map_entry_not_found,exception,"Map entry not found");

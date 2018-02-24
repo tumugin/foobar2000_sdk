@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 
 
 // Identifier of our context menu group. Substitute with your own when reusing code.

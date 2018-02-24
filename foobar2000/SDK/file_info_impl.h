@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 namespace file_info_impl_utils {
 

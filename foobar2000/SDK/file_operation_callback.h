@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 //! Interface to notify component system about files being deleted or moved. Operates in app's main thread only.
 
 class NOVTABLE file_operation_callback : public service_base {

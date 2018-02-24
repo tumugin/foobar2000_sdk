@@ -1,4 +1,4 @@
-#include "StdAfx.h"
+﻿#include "StdAfx.h"
 
 #include "ThreadUtils.h"
 #include "rethrow.h"

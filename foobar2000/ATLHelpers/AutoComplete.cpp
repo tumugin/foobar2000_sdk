@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 #include <ShlGuid.h> // CLSID_AutoComplete
 #include "../helpers/COM_utils.h"
 #include "../helpers/dropdown_helper.h"

@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 class cfg_guidlist : public cfg_var, public pfc::list_t<GUID>
 {

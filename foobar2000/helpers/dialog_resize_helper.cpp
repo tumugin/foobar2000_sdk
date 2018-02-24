@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 
 #ifdef FOOBAR2000_DESKTOP_WINDOWS
 #include "dialog_resize_helper.h"

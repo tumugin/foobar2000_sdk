@@ -1,4 +1,4 @@
-#include "foobar2000.h"
+﻿#include "foobar2000.h"
 namespace {
 
 #define FILE_CACHED_DEBUG_LOG 0

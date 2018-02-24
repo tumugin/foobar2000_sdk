@@ -1,4 +1,4 @@
-#include "foobar2000.h"
+﻿#include "foobar2000.h"
 
 void search_filter_manager::show_manual() {
 	pfc::string8 temp;

@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 namespace create_directory_helper {
 	void create_path(const char * p_path,abort_callback & p_abort);

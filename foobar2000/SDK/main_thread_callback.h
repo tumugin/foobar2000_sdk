@@ -1,4 +1,4 @@
-#include <functional>
+﻿#include <functional>
 
 //! Callback object class for main_thread_callback_manager service.
 class NOVTABLE main_thread_callback : public service_base {

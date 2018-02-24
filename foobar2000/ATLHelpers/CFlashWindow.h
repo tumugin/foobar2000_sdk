@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 typedef CWinTraits<WS_POPUP,WS_EX_TRANSPARENT|WS_EX_LAYERED|WS_EX_TOPMOST|WS_EX_TOOLWINDOW> CFlashWindowTraits;
 

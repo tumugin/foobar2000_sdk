@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 //playable_location stores location of a playable resource, currently implemented as file path and integer for indicating multiple playable "subsongs" per file
 //also see: file_info.h

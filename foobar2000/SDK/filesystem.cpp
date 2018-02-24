@@ -1,4 +1,4 @@
-#include "foobar2000.h"
+﻿#include "foobar2000.h"
 
 
 // For reasons unknown, MS linker will not throw these global constants out if the code using them is not referenced

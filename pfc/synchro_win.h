@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 class _critical_section_base {
 protected:

@@ -1,4 +1,4 @@
-#include "pfc.h"
+﻿#include "pfc.h"
 #ifdef _MSC_VER
 #include <intrin.h>
 #include <assert.h>

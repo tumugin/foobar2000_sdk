@@ -1,4 +1,4 @@
-extern "C"
+﻿extern "C"
 {
 	LPCSTR SHARED_EXPORT uGetCallStackPath();
 	LONG SHARED_EXPORT uExceptFilterProc(LPEXCEPTION_POINTERS param);

@@ -1,1 +1,1 @@
-// obsolete, moved to SDK
+﻿// obsolete, moved to SDK

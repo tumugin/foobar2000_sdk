@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #ifndef _MSC_VER
 #include <stdlib.h>

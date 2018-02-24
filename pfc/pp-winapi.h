@@ -1,4 +1,4 @@
-#if !defined(PP_WINAPI_H_INCLUDED) && defined(_WIN32)
+﻿#if !defined(PP_WINAPI_H_INCLUDED) && defined(_WIN32)
 #define PP_WINAPI_H_INCLUDED
 
 #ifdef WINAPI_FAMILY_PARTITION

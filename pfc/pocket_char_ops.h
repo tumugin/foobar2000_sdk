@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // Standalone header (no dependencies) with implementations of PFC UTF-8 & UTF-16 manipulation routines
 

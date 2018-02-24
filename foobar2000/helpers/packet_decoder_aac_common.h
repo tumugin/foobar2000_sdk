@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #include "../SDK/packet_decoder.h"
 
 /*

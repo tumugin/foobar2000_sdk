@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 
 #include "../helpers/win32_misc.h"
 #include "inplace_edit.h"

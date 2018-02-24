@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #ifdef PFC_WINDOWS_STORE_APP
 #include <pfc/pp-winapi.h>

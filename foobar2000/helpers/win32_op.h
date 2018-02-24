@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 PFC_NORETURN PFC_NOINLINE void WIN32_OP_FAIL();
 PFC_NORETURN PFC_NOINLINE void WIN32_OP_FAIL_CRITICAL(const char * what);

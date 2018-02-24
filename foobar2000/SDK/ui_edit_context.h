@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 //! A class used to redirect actions coming from the 'edit' menu, typically provided by the UI Element having focus. \n
 //! Use ui_edit_context_manager to register and manipulate.

@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 //! Provides interface to decode various audio data types to PCM. Use packet_decoder_factory_t template to register.
 
 class NOVTABLE packet_decoder : public service_base {

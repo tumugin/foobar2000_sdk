@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 #include "resource.h"
 
 // Sample preferences interface: two meaningless configuration settings accessible through a preferences page and one accessible through advanced preferences.

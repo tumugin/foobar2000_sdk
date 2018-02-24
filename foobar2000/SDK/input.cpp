@@ -1,4 +1,4 @@
-#include "foobar2000.h"
+﻿#include "foobar2000.h"
 
 service_ptr input_entry::open(const GUID & whatFor, file::ptr hint, const char * path, abort_callback & aborter) {
 	if (whatFor == input_decoder::class_guid) {

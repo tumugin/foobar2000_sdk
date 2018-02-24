@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 template<typename what>
 static bool service_by_guid_fallback(service_ptr_t<what> & out, const GUID & id) {

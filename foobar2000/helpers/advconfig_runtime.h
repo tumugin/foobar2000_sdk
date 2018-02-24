@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // Alternate advconfig var implementations that discard their state across app restarts - use for debug options that should not stick
 

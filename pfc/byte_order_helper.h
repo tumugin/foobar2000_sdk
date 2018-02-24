@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 namespace pfc {
 	void byteswap_raw(void * p_buffer,t_size p_bytes);

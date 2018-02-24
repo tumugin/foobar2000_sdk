@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 class NOVTABLE mainmenu_group : public service_base {
 	FB2K_MAKE_SERVICE_INTERFACE_ENTRYPOINT(mainmenu_group);

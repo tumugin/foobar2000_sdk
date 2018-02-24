@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 namespace pfc {
 	//! Generic variable bit array implementation. \n

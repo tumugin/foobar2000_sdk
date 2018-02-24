@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #include "../helpers/dialog_resize_helper.h"
 #include "WindowPositionUtils.h"

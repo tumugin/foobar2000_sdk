@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 #include "Controls.h"
 #include "../helpers/win32_misc.h"
 

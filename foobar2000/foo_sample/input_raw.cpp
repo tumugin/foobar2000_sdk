@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 
 enum {
 	raw_bits_per_sample = 16,

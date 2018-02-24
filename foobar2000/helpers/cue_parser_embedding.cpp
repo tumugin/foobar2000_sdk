@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 #include "cue_parser.h"
 
 using namespace cue_parser;

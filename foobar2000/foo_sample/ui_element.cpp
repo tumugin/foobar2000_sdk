@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 
 namespace {
 	// Anonymous namespace : standard practice in fb2k components

@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 class playlist_position_reference_tracker : public playlist_callback_impl_base {
 public:

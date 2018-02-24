@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 class _meta_table_enum_wrapper {
 public:

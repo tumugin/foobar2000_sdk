@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 class NOVTABLE reader_membuffer_base : public file_readonly {
 public:

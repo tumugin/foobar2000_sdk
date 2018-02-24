@@ -1,4 +1,4 @@
-#include "foobar2000.h"
+﻿#include "foobar2000.h"
 
 #ifdef _MSC_VER
 #define RG_FPU() fpu_control_roundnearest bah;

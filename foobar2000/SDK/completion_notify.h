@@ -1,4 +1,4 @@
-#include <functional>
+﻿#include <functional>
 
 //! Generic service for receiving notifications about async operation completion. Used by various other services.
 class completion_notify : public service_base {

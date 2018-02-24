@@ -1,4 +1,4 @@
-namespace pfc {
+﻿namespace pfc {
 #ifdef _WIN32
     
     typedef HANDLE eventHandle_t;

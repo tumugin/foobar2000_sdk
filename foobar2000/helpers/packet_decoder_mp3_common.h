@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 /*
 Helper code with common MP3 packet_decoder functionality. Primarily meant for foo_input_std-internal use.

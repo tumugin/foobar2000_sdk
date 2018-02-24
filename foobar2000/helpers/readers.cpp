@@ -1,4 +1,4 @@
-#include "StdAfx.h"
+﻿#include "StdAfx.h"
 #include "readers.h"
 #include "fullFileBuffer.h"
 #include "fileReadAhead.h"

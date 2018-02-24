@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #include "../helpers/listview_helper.h"
 

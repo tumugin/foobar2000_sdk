@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // Obsolete, use metadb_hint_list instead when possible, wrapper provided for compatibility with old code
 

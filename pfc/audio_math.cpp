@@ -1,4 +1,4 @@
-#include "pfc.h"
+﻿#include "pfc.h"
 
 static audio_sample noopt_calculate_peak(const audio_sample * p_src,t_size p_num)
 {

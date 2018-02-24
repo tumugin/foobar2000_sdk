@@ -1,4 +1,4 @@
-#include <pthread.h>
+﻿#include <pthread.h>
 
 namespace pfc {
     class mutexAttr {

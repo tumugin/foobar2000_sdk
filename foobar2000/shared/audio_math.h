@@ -1,4 +1,4 @@
-#ifndef audio_sample_size
+﻿#ifndef audio_sample_size
 #error PFC not included?
 #endif
 

@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #include "CFlashWindow.h"
 #include "misc.h"
 

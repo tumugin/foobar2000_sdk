@@ -1,4 +1,4 @@
-#include "foobar2000.h"
+﻿#include "foobar2000.h"
 
 #ifndef _MSC_VER
 #define strcat_s strcat

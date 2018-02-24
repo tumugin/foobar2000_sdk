@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 namespace VisUtils {
 	//! Turns an arbitrary audio_chunk into a valid chunk to run FFT on, with proper sample count etc.

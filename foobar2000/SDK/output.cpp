@@ -1,4 +1,4 @@
-#include "foobar2000.h"
+﻿#include "foobar2000.h"
 
 pfc::string8 output_entry::get_device_name( const GUID & deviceID ) {
 	pfc::string8 temp;

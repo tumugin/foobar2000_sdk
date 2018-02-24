@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #include "ThreadUtils.h"
 #include "rethrow.h"

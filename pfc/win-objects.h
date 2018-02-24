@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 namespace pfc {
 	BOOL winFormatSystemErrorMessage(pfc::string_base & p_out,DWORD p_code);

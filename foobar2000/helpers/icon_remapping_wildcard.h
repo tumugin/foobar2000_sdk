@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 class icon_remapping_wildcard_impl : public icon_remapping {
 public:

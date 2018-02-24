@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 class file_move_helper {
 public:

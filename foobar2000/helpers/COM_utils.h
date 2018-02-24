@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #define FB2K_COM_CATCH catch(exception_com const & e) {return e.get_code();} catch(std::bad_alloc) {return E_OUTOFMEMORY;} catch(pfc::exception_invalid_params) {return E_INVALIDARG;} catch(...) {return E_UNEXPECTED;}
 

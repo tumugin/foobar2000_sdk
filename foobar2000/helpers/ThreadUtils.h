@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #include "fb2k_threads.h"
 
 #ifdef _WIN32

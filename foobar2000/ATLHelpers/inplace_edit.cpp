@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 
 #include "inplace_edit.h"
 #include "AutoComplete.h"

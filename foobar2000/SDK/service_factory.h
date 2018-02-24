@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 class NOVTABLE service_factory_base {
 public:

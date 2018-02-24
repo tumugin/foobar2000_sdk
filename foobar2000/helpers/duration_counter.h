@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 //! Duration counter class - accumulates duration using sample values, without any kind of rounding error accumulation.
 class duration_counter {

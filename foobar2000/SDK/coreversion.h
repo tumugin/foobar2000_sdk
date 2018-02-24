@@ -1,4 +1,4 @@
-class NOVTABLE core_version_info : public service_base {
+﻿class NOVTABLE core_version_info : public service_base {
 	FB2K_MAKE_SERVICE_COREAPI(core_version_info);
 public:
 	virtual const char * get_version_string() = 0;

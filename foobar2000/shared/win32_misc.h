@@ -1,4 +1,4 @@
-class uDebugLog : public pfc::string_formatter {
+﻿class uDebugLog : public pfc::string_formatter {
 public:
 	~uDebugLog() {*this << "\n"; uOutputDebugString(get_ptr());}
 };

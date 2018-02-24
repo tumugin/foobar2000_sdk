@@ -1,4 +1,4 @@
-#if !defined(PP_GETTICKCOUNT_H_INCLUDED) && defined(_WIN32)
+﻿#if !defined(PP_GETTICKCOUNT_H_INCLUDED) && defined(_WIN32)
 #define PP_GETTICKCOUNT_H_INCLUDED
 
 namespace PP {

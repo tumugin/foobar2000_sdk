@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // placeholder added for foobar2000 mobile source compatibility
 

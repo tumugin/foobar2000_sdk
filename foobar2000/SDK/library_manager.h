@@ -1,4 +1,4 @@
-/*!
+﻿/*!
 This service implements methods allowing you to interact with the Media Library.\n
 All methods are valid from main thread only, unless noted otherwise.\n
 Usage: Use library_manager::get() to instantiate.

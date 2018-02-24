@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #define __file_info_const_impl_have_hintmap__
 

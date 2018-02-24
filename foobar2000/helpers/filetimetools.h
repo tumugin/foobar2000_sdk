@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 namespace foobar2000_io {
 	t_filetimestamp filetimestamp_from_string(const char * date);

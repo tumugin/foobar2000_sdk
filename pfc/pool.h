@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #include "synchro.h"
 #include <memory>
 #include <list>

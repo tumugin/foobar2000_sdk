@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 namespace pfc {
 	PFC_DECLARE_EXCEPTION( exception_invalid_permutation, exception_invalid_params, "Invalid permutation" );

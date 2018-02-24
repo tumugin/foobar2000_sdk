@@ -1,4 +1,4 @@
-#include "foobar2000.h"
+﻿#include "foobar2000.h"
 
 bool component_installation_validator::test_my_name(const char * fn) {
 	const char * path = core_api::get_my_full_path();

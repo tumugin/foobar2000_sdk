@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #include "../helpers/win32_misc.h"
 #include "WTL-PP.h"

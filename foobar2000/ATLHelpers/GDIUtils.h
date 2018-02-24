@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 static HBITMAP CreateDIB24(CSize size) {
 	struct {

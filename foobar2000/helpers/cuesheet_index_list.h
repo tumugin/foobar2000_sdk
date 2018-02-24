@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 unsigned cuesheet_parse_index_time_ticks_e(const char * p_string,t_size p_length);
 double cuesheet_parse_index_time_e(const char * p_string,t_size p_length);

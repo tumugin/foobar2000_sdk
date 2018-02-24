@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 // Various WTL extensions that are not fb2k specific and can be reused in other WTL based software
 
 #define ATLASSERT_SUCCESS(X) {auto RetVal = (X); ATLASSERT( RetVal ); }

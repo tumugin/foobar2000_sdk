@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #ifndef UNICODE
 #error Only UNICODE environment supported.

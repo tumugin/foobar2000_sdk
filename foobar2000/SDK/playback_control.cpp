@@ -1,4 +1,4 @@
-#include "foobar2000.h"
+﻿#include "foobar2000.h"
 
 static double parseFraction(const char * fraction) {
 	unsigned v = 0, d = 1;

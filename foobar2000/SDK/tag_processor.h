@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 PFC_DECLARE_EXCEPTION(exception_tag_not_found,exception_io_data,"Tag not found");
 

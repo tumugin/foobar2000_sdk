@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #include <math.h>
 
 #define audio_sample_size 32

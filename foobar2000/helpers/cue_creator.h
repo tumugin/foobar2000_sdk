@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #include "cuesheet_index_list.h"
 

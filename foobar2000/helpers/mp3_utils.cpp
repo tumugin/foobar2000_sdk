@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 
 #include "mp3_utils.h"
 #include "bitreader_helper.h"

@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 
 class calculate_peak_process : public threaded_process_callback {
 public:

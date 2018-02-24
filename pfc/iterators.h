@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 namespace pfc {
 	//! Base class for list nodes. Implemented by list implementers.

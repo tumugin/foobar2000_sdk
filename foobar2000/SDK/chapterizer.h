@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // Not everything is on #ifdef FOOBAR2000_HAVE_CHAPTERIZER
 // Some things use chapter_list internally even if chapterizer is disabled

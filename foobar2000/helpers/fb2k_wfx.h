@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 struct fb2k_wfx {
 	audio_chunk::spec_t spec;

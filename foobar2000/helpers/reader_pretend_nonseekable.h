@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 class reader_pretend_nonseekable : public file {
 public:

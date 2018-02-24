@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 
 // I am foo_sample and these are *my* GUIDs
 // Make your own when reusing code or else

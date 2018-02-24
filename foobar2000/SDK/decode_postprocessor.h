@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #ifdef FOOBAR2000_HAVE_DSP
 //! \since 1.1

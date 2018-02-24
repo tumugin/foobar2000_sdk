@@ -1,4 +1,4 @@
-#include "pfc.h"
+﻿#include "pfc.h"
 
 namespace pfc {
 	void bit_array::for_each(bool value, size_t base, size_t max, std::function<void(size_t)> f) const {

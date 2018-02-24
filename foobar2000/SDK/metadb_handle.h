@@ -1,4 +1,4 @@
-class titleformat_hook;
+﻿class titleformat_hook;
 class titleformat_text_filter;
 class titleformat_object;
 
